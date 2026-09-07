@@ -1,2 +1,5 @@
-# hello-world
-GitHub practice repository for Server-side Scripting with PHP LAB
+# Hello World
+
+This repository was created for my Server-side Scripting with PHP LAB course.
+
+My name is Brian Taylor.
